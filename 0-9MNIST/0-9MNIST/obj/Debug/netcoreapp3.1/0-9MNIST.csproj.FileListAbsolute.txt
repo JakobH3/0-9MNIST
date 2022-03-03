@@ -1,0 +1,13 @@
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\bin\Debug\netcoreapp3.1\0-9MNIST.exe
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\bin\Debug\netcoreapp3.1\0-9MNIST.deps.json
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\bin\Debug\netcoreapp3.1\0-9MNIST.runtimeconfig.json
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\bin\Debug\netcoreapp3.1\0-9MNIST.runtimeconfig.dev.json
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\bin\Debug\netcoreapp3.1\0-9MNIST.dll
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\bin\Debug\netcoreapp3.1\0-9MNIST.pdb
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\obj\Debug\netcoreapp3.1\0-9MNIST.csprojAssemblyReference.cache
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\obj\Debug\netcoreapp3.1\0-9MNIST.AssemblyInfoInputs.cache
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\obj\Debug\netcoreapp3.1\0-9MNIST.AssemblyInfo.cs
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\obj\Debug\netcoreapp3.1\0-9MNIST.csproj.CoreCompileInputs.cache
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\obj\Debug\netcoreapp3.1\0-9MNIST.dll
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\obj\Debug\netcoreapp3.1\0-9MNIST.pdb
+C:\Users\jhaeh\source\repos\0-9MNIST\0-9MNIST\obj\Debug\netcoreapp3.1\0-9MNIST.genruntimeconfig.cache
